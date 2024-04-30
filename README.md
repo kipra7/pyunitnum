@@ -5,4 +5,4 @@ Python and numpy library to simplify dimensional analysis and regulation between
 
 - Calculations with automatic dimensional analysis of some variables and constants
 - Mutual conversion between systems of units (i.e. SI and CGS-gauss)
-
+- Smooth integration with numpy, pandas, and xarray
