@@ -1,3 +1,10 @@
+# for Mac
+.DS_Store
+
+# for Obsidian (edit md)
+.obsidian
+
+## Python Default
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
