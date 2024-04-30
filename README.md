@@ -1,4 +1,4 @@
-# pyunitnum
+# pyunitnum (coming soon...)
 Python and numpy library to simplify dimensional analysis and regulation between different systems of units (mainly for solid state physics.)
 
 
